@@ -18,7 +18,7 @@ The purpose of this analysis is to evaluate the performance of a deep learning m
 
 * Neurons, Layers, and Activation Functions: The model includes multiple hidden layers with varying numbers of neurons (e.g., 80, 30, and 32 neurons). ReLU activation functions were chosen for the hidden layers to introduce non-linearity and enhance the model's capacity to learn complex patterns in the data.
 
-* Achievement of Target Model Performance: The model achieved an accuracy of approximately 72.55% and a loss of approximately 0.5626. While this accuracy is close to the target of 75%, further improvements are necessary to reach the desired performance level.
+* Achievement of Target Model Performance: The model achieved an accuracy of approximately 72.43% and a loss of approximately 0.5658. While this accuracy is close to the target of 75%, further improvements are necessary to reach the desired performance level.
 
 * Steps to Increase Model Performance: Despite attempts to improve model performance by adjusting architecture, experimenting with activation functions, and varying the number of epochs, there was little to no improvement observed. Further optimization is required to achieve the target accuracy.
 
